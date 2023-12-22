@@ -1,0 +1,9 @@
+Tags learnt
+
+-<p>p Tags</p>
+-h1 ... h6 Tags
+-<em>italised</em> 
+-<strong>strong Tags</strong> 
+-<ol>ordered list<ol>
+
+The CSS styles sheets are linked in the HTML pages from the "CSS_files" folder
