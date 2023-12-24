@@ -1,0 +1,106 @@
+/* ##############styling for challenges2.html######## */
+/* https://www.google.com/intl/en_gh/drive/ */
+body {
+  color: #242121;
+  /* border: solid #000; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.component-container {
+  border: 4px solid #000;
+  width: 825px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .body_class {
+  border: solid #000;
+} */
+.nav_bar {
+  font-family: sans-serif;
+  font-weight: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.converse_h3 {
+  background-color: #eeebeb;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.product_container {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.free_shipping {
+  color: #8f8383fa;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.list {
+  text-align: left;
+  list-style: square;
+  list-style-position: inside;
+}
+
+.links_info:link {
+  font-size: 13px;
+  color: #000;
+  text-decoration: underline;
+}
+
+.links_info:hover {
+  font-weight: bold;
+  text-rendering: optimizeSpeed;
+  text-decoration: none;
+}
+
+.links_info:active {
+  font-weight: lighter;
+  text-rendering: optimizeSpeed;
+  text-decoration: dotted;
+}
+
+.button {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #000;
+  color: beige;
+  width: 100%;
+  font-size: bold;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #000;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+}
+
+.details {
+  text-align: center;
+  padding: 0 40px;
+}
